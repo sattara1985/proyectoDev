@@ -43,7 +43,7 @@ app.get("/empleados",(req,res)=>{
 });
 
 app.listen(3001,()=>{
-    console.log('server is running on port 3001  127https://www.youtube.com/watch?v=eJ6v0E5DJlw---https://www.youtube.com/watch?v=U1u2jNYXmBw');
+    console.log('server is running on port 3001');
 })
 
 
